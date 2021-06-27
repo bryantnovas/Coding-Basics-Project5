@@ -29,8 +29,8 @@ I used [Java](https://go.java/?intcmp=gojava-banner-java-com) and [IntelliJ](htt
 Also [Visual Studio Code](https://code.visualstudio.com/) was of great help editing and getting instant visual feedback for this README file.
 
  ### Prerequisites <a name=prerequisites></a>
- - the latest version of [Java](https://java.com/en/download/)
- - [Java JDK SE 7 or Higher](https://www.oracle.com/java/technologies/javase-downloads.html)
+ - The latest version of [Java](https://java.com/en/download/)
+ - [Java JDK SE 15 or Higher](https://www.oracle.com/java/technologies/javase-downloads.html)
 
  ### Installation <a name=installation></a>
   1. Clone the Repo:
